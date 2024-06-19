@@ -643,11 +643,10 @@ address,URL,latitude,longitude,town,postal_number
 : Þingvallastræti 2,https://arnorbl.blog.is/blog/arnorbl/entry/1197749/,65.6800004,-18.0954337,Akureyri,600
 : Þingvallastræti 25,https://arnorbl.blog.is/blog/arnorbl/entry/1280084/,65.6792519,-18.1024477,Akureyri,600
 : Þingvallastræti 4,http://arnorbl.blog.is/blog/arnorbl/entry/2175457/,65.67974,-18.09725,Akureyri,600
-: Þingvallastræti 6,http://arnorbl.blog.is/blog/arnorbl/entry/2175458/,65.6799227,-18.0962667,Akureyri,600
-: Þingvallastræti 8,http://arnorbl.blog.is/blog/arnorbl/entry/2175459/,65.6797191,-18.096586,Akureyri,600
-: Þorsteinsskáli,https://arnorbl.blog.is/blog/arnorbl/entry/1079891/,65.1927254,-16.2226141,,660
-: Þórunnarstræti 89,http://arnorbl.blog.is/blog/arnorbl/entry/1829376/,65.676289,-18.0986117,Akureyri,600
-: Þórunnarstræti 97,http://arnorbl.blog.is/blog/arnorbl/entry/1824245/,65.6777044,-18.0990473,Akureyri,600
+: Þingvallastræti 6,http://arnorbl.blog.is/blog/arnorbl/entry/2175458/,65.6799227,-18.0962667,Akureyri,600Þingvallastræti 8,http://arnorbl.blog.is/blog/arnorbl/entry/2175459/,65.6797191,-18.096586,Akureyri,600
+Þorsteinsskáli,https://arnorbl.blog.is/blog/arnorbl/entry/1079891/,65.1927254,-16.2226141,,660
+Þórunnarstræti 89,http://arnorbl.blog.is/blog/arnorbl/entry/1829376/,65.676289,-18.0986117,Akureyri,600
+Þórunnarstræti 97,http://arnorbl.blog.is/blog/arnorbl/entry/1824245/,65.6777044,-18.0990473,Akureyri,600
 :Norðurtangi 1,http://arnorbl.blog.is/blog/arnorbl/entry/2233536/,65.6929148,-18.0966187,Akureyri,600
 Aðalstræti 10 ,https://arnorbl.blog.is/blog/arnorbl/entry/1087390/,64.1477901,-21.9422891,Akureyri,600
 Brekkugata 10 og 31,https://arnorbl.blog.is/blog/arnorbl/entry/1079058/,,,Akureyri,600
@@ -676,7 +675,7 @@ Hólabraut 12,https://arnorbl.blog.is/blog/arnorbl/entry/2252922/,64.0618192,-21
 Hólabraut 15,http://arnorbl.blog.is/blog/arnorbl/entry/2159915/,65.6841757,-18.0936743,Akureyri,600
 Silfurgata 2,https://arnorbl.blog.is/blog/arnorbl/entry/1253561/,66.0726559,-23.1187473,�safj�r�ur,400
 Smiðjugata 2,https://arnorbl.blog.is/blog/arnorbl/entry/1257120/,66.0716519,-23.1175172,�safj�r�ur,400
-Krókur 1,https://arnorbl.blog.is/blog/arnorbl/entry/1262074/,66.0793304,-23.1249424,Neskaupssta�ur,400
+Krókur 1,https://arnorbl.blog.is/blog/arnorbl/entry/1262074/,66.0793304,-23.1249424,Ísafjörður, 400
 "Norska húsið Stykkishólmi.""",https://arnorbl.blog.is/blog/arnorbl/entry/1263261/,65.0772081,-22.7268666,Stykkish�lmur,340
 Silfurgata 8,https://arnorbl.blog.is/blog/arnorbl/entry/1254731/,66.0723651,-23.1174242,�safj�r�ur,400
 Túngata 3,https://arnorbl.blog.is/blog/arnorbl/entry/1256219/,63.839734,-22.436635,�safj�r�ur,400
@@ -711,7 +710,7 @@ Lundargata 15,https://www.akureyri.net/is/flokkur/hus-dagsins/hus-dagsins-lundar
 Lundargata 2,https://www.akureyri.net/is/flokkur/hus-dagsins/hus-dagsins-lundargata-2,65.6844063,-18.0883264,Akureyri,600
 Lækjargata 6,https://www.akureyri.net/is/flokkur/hus-dagsins/hus-dagsins-laekjargata-6,64.1465238,-21.9373741,Akureyri,600
 Norðurgata 2,https://www.akureyri.net/is/flokkur/hus-dagsins/hus-dagsins-nordurgata-2,65.68496,-18.087085,Akureyri,600
-"Norðurgata 17,https://www.akureyri.net/is/flokkur/hus-dagsins/hus-dagsins-nordurgata-17-gamla-prentsmidjan-steinhusid,,,
+Norðurgata 17,https://www.akureyri.net/is/flokkur/hus-dagsins/hus-dagsins-nordurgata-17-gamla-prentsmidjan-steinhusid,,,
 Strandgata 7,https://www.akureyri.net/is/flokkur/hus-dagsins/hus-dagsins-strandgata-7,,,
 Sólgarður,https://www.akureyri.net/is/flokkur/hus-dagsins/hus-dagsins-solgardur-i-fyrrum-saurbaejarhreppi,,,
 Þinghúsið á Hrafnagili,https://www.akureyri.net/is/flokkur/hus-dagsins/hus-dagsins-thinghusid-a-hrafnagili,,,
