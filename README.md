@@ -4,9 +4,13 @@
 
 ## Skráarskipulag
 house_app/
+
 ├── admin_app/
+
 │   ├── node_modules/
+
 │   ├── public/
+
 │   │   ├── index.html
 │   │   ├── scripts.js
 │   │   └── styles.css
