@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #444;
+}
+
+header h2 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #666;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+    max-width: 1600px; /* Increased max-width for larger map */
+    margin: 0 auto;
+}
+
+.list-container, .map-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.list-container {
+    flex: 1;
+    overflow-y: auto;
+}
+
+.map-container {
+    flex: 4; /* Increased flex value for larger map */
+    position: relative;
+}
+
+h3 {
+    color: #444;
+}
+
+#search {
+    display: block;
+    width: calc(100% - 22px);
+    padding: 10px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px; /* Adjust this value to change padding */
+    border-bottom: 1px solid #ddd;
+    cursor: pointer;
+    font-size: 14px; /* Adjust this value to change font size */
+}
+
+li:hover {
+    background-color: #f0f0f0;
+}
+
+li a {
+    text-decoration: none;
+    color: #337ab7;
+    margin-left: 10px;
+}
+
+li a:hover {
+    text-decoration: underline;
+}
+
+#map {
+    width: 100%;
+    height: 800px; /* Increased height for larger map */
+}

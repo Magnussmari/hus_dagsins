@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+    <meta charset="UTF-8">
+    <title>Húsakortasjá</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Hús dagsins</h1>
+        <h2>Arnór Bliki</h2>
+    </header>
+    <div class="container">
+        <div class="form-container">
+            <h3>Fjöldi húsa: <span id="houseCount">0</span></h3>
+            <h3>Skrá nýtt hús</h3>
+            <form id="houseForm">
+                <label for="street">Gata:</label>
+                <input type="text" id="street" name="street" required>
+                <label for="housenumber">Húsnúmer:</label>
+                <input type="text" id="housenumber" name="housenumber">
+                <label for="postcode">Póstnúmer:</label>
+                <input type="text" id="postcode" name="postcode" required>
+                <label for="town">Bær:</label>
+                <input type="text" id="town" name="town" required>
+                <label for="url">Hlekkur:</label>
+                <input type="text" id="url" name="url">
+                <label for="latitude">Breiddargráða:</label>
+                <input type="text" id="latitude" name="latitude">
+                <label for="longitude">Lengdargráða:</label>
+                <input type="text" id="longitude" name="longitude">
+                <button type="submit">Bæta við húsi</button>
+            </form>
+        </div>
+        <div class="table-container">
+            <h3>Hús</h3>
+            <input type="text" id="search" placeholder="Leita eftir götu...">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Gata</th>
+                        <th>Húsnúmer</th>
+                        <th>Póstnúmer</th>
+                        <th>Bær</th>
+                        <th>Hnit</th>
+                        <th>Hlekkur</th>
+                        <th>Aðgerð</th>
+                    </tr>
+                </thead>
+                <tbody id="houseList">
+                    <!-- Hús verða sett hér -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

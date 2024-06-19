@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+    <meta charset="UTF-8">
+    <title>Hús dagsins</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+    <header>
+        <h1>Hús dagsins</h1>
+        <h2>Kort af húsum sem Arnór Bliki hefur skrifað um</h2>
+    </header>
+    <div class="container">
+        <div class="list-container">
+            <h3>Hús</h3>
+            <input type="text" id="search" placeholder="Leita eftir götu...">
+            <ul id="houseList"></ul>
+        </div>
+        <div class="map-container">
+            <div id="map"></div>
+        </div>
+    </div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="scripts.js"></script>
+</body>
+</html>

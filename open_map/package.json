@@ -1,0 +1,14 @@
+{
+    "name": "open_map",
+    "version": "1.0.0",
+    "description": "Read-only viewer for house locations using OpenStreetMap and Leaflet",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "sqlite3": "^5.0.0"
+    }
+  }
+  
