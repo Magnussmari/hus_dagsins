@@ -92,3 +92,4 @@ Athugaðu að Node.js sé rétt uppsett með því að slá inn node -v í skipa
 Gakktu úr skugga um að vera í réttri möppu (open_map eða admin_app) þegar þú slærð inn skipanirnar.
 Lestu villuboðin í skipanalínu fyrir frekari upplýsingar um hvað gæti hafa farið úrskeiðis.
 Athugaðu að Python sé rétt uppsett með því að slá inn python --version í skipanalínu og sjá útgáfunúmerið.
+Ef þú þarft frekari aðstoð, vinsamlegast hafðu samband við þann sem útbjó forritið.
